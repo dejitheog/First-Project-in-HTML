@@ -1,2 +1,2 @@
-# First-Project-in-HTML
-This is my first project on HTML 
+# My First HTML Project 
+This is my first step on the journey to becoming a full-stack developer.
